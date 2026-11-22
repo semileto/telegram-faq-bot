@@ -1,0 +1,8 @@
+__pycache__/
+.pytest_cache/
+*.db
+*.csv
+*.xlsx
+.env
+sa.json
+.venv/

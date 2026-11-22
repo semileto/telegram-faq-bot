@@ -1,0 +1,106 @@
+[
+ {
+  "q": "how many days until my coffee gets here",
+  "expected": "delivery_time"
+ },
+ {
+  "q": "do you deliver quickly?",
+  "expected": "delivery_time"
+ },
+ {
+  "q": "what do you charge for shipping",
+  "expected": "delivery_cost"
+ },
+ {
+  "q": "is there free delivery",
+  "expected": "delivery_cost"
+ },
+ {
+  "q": "can i pay with mastercard",
+  "expected": "payment"
+ },
+ {
+  "q": "cash on delivery possible?",
+  "expected": "payment"
+ },
+ {
+  "q": "the pack came broken, what now",
+  "expected": "returns"
+ },
+ {
+  "q": "how do refunds work",
+  "expected": "returns"
+ },
+ {
+  "q": "which beans are good for espresso",
+  "expected": "roast_types"
+ },
+ {
+  "q": "do you have a dark roast",
+  "expected": "roast_types"
+ },
+ {
+  "q": "i need ground coffee for french press",
+  "expected": "grind"
+ },
+ {
+  "q": "can you grind it for me",
+  "expected": "grind"
+ },
+ {
+  "q": "when was the coffee roasted",
+  "expected": "freshness"
+ },
+ {
+  "q": "how long will the beans stay fresh",
+  "expected": "freshness"
+ },
+ {
+  "q": "i own a cafe, can we buy in bulk",
+  "expected": "wholesale"
+ },
+ {
+  "q": "coffee for our office, wholesale prices?",
+  "expected": "wholesale"
+ },
+ {
+  "q": "where is my order now",
+  "expected": "track_order"
+ },
+ {
+  "q": "i didn't get a tracking number",
+  "expected": "track_order"
+ },
+ {
+  "q": "are you open on saturday",
+  "expected": "hours"
+ },
+ {
+  "q": "what time does support work",
+  "expected": "hours"
+ },
+ {
+  "q": "do you sell tea",
+  "expected": null
+ },
+ {
+  "q": "what is the meaning of life",
+  "expected": null
+ },
+ {
+  "q": "hello",
+  "expected": null
+ },
+ {
+  "q": "who won the football match yesterday",
+  "expected": null
+ },
+ {
+  "q": "can you fix my laptop",
+  "expected": null
+ },
+ {
+  "q": "tell me a joke",
+  "expected": null
+ }
+]
